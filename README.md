@@ -2,6 +2,8 @@
 
 To run this code via Anaconda - for Natural Language Processing
 
+The framework below are not in Anaconda so conda install is required to work in your environment.
+
 Install Tweepy
 https://anaconda.org/conda-forge/tweepy
 
