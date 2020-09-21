@@ -1,4 +1,4 @@
-# TwitterAPI
+# Twitter NLP
 
 To run this code via Anaconda - for Natural Language Processing
 
