@@ -1,4 +1,4 @@
-# Twitter NLP
+# Twitter NLTK
 
 To run this code via Anaconda - for Natural Language Processing
 
